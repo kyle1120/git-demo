@@ -2,9 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-HELLLLLLLOO IM KYLE
-
-
-XNIGHTFURY
+1. index.html
